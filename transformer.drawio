@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T14:13:44.888Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="GeRazu72Das_StY2qVDg" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-07T14:16:47.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="20yL2Nv27KqCh9huCkmC" version="22.0.4" type="github" pages="2">
   <diagram name="Page-1" id="L9wKxA3IgMW9D4mlLyfj">
     <mxGraphModel dx="1304" dy="960" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UqhF--r-Gl4hebt5zzpi-1" value="" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=IBM Plex Mono;fontSize=18;fillStyle=auto;fillColor=#f8f8f8;arcSize=8;fontColor=#838383;comic=0;shadow=1;jiggle=0.5;fillOpacity=80;" parent="1" vertex="1">
+        <mxCell id="UqhF--r-Gl4hebt5zzpi-1" value="" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=IBM Plex Mono;fontSize=18;fillStyle=hachure;fillColor=#FFFFFF;arcSize=8;fontColor=#838383;comic=0;shadow=1;jiggle=2;fillOpacity=100;gradientColor=none;sketch=1;curveFitting=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="442.25" y="290" width="192.5" height="504" as="geometry" />
         </mxCell>
         <mxCell id="UqhF--r-Gl4hebt5zzpi-81" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;strokeOpacity=100;fillOpacity=80;comic=0;shadow=0;jiggle=0.5;" parent="1" source="UqhF--r-Gl4hebt5zzpi-17" target="UqhF--r-Gl4hebt5zzpi-12" edge="1">
@@ -25,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UqhF--r-Gl4hebt5zzpi-48" value="" style="whiteSpace=wrap;html=1;rounded=1;flipV=0;fontFamily=IBM Plex Mono;fontSize=18;fillColor=#f8f8f8;fontColor=#838383;strokeColor=#666666;arcSize=8;comic=0;shadow=1;jiggle=0.5;fillOpacity=80;" parent="1" vertex="1">
+        <mxCell id="UqhF--r-Gl4hebt5zzpi-48" value="" style="whiteSpace=wrap;html=1;rounded=1;flipV=0;fontFamily=IBM Plex Mono;fontSize=18;fillColor=#F8F8F8;fontColor=#838383;strokeColor=none;arcSize=8;comic=0;shadow=1;jiggle=2;fillOpacity=80;fillStyle=hatch;sketch=1;curveFitting=1;" parent="1" vertex="1">
           <mxGeometry x="210.88" y="441" width="195.25" height="353" as="geometry" />
         </mxCell>
         <mxCell id="UqhF--r-Gl4hebt5zzpi-95" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;strokeOpacity=100;fillOpacity=80;comic=0;shadow=0;jiggle=0.5;" parent="1" source="UqhF--r-Gl4hebt5zzpi-9" edge="1">
@@ -290,8 +290,11 @@
             <mxPoint x="550" y="840.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K7huDpgQSB3ZWNo1R82g-1" value="&lt;font face=&quot;IBM Plex Mono&quot; style=&quot;font-size: 20px;&quot;&gt;Decoder&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#838383;comic=0;shadow=1;jiggle=0.5;" vertex="1" parent="1">
-          <mxGeometry x="642" y="290" width="102" height="36" as="geometry" />
+        <mxCell id="K7huDpgQSB3ZWNo1R82g-1" value="&lt;font face=&quot;IBM Plex Mono&quot; style=&quot;font-size: 20px;&quot;&gt;Decoder&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#838383;comic=0;shadow=1;jiggle=0.5;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="598.5" y="521" width="102" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="K7huDpgQSB3ZWNo1R82g-2" value="&lt;font face=&quot;IBM Plex Mono&quot; style=&quot;font-size: 20px;&quot;&gt;Encoder&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=#838383;comic=0;shadow=1;jiggle=0.5;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="131" y="492.25" width="102" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
