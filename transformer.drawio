@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T12:38:29.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="OHyzpvUiSlu_klnCheMU" version="21.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-07T13:13:05.075Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="vcy8UzuwfFPm4Va-S2bC" version="21.7.4" type="github" pages="2">
   <diagram name="Page-1" id="L9wKxA3IgMW9D4mlLyfj">
     <mxGraphModel dx="1490" dy="1097" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -294,10 +294,124 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6ZiKRdnD_onH5N_1Efce" name="Page-2">
-    <mxGraphModel dx="1043" dy="768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="717" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-61" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;" edge="1" parent="1" source="8phl6j2SaBWz-fMP-7BG-7" target="8phl6j2SaBWz-fMP-7BG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-62" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;" edge="1" parent="1" source="8phl6j2SaBWz-fMP-7BG-6" target="8phl6j2SaBWz-fMP-7BG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://uvadlc-notebooks.readthedocs.io/en/latest/_images/multihead_attention.svg;fontColor=#838383;fontFamily=IBM Plex Mono;" vertex="1" parent="1">
+          <mxGeometry x="232.7386016845703" y="199.36649322509766" width="163" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-21" value="V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=IBM Plex Mono;fontColor=#838383;" vertex="1" parent="1">
+          <mxGeometry x="511.99" y="429" width="29" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-22" value="K" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=IBM Plex Mono;fontColor=#838383;" vertex="1" parent="1">
+          <mxGeometry x="594.26" y="429" width="29" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-23" value="Q" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=IBM Plex Mono;fontColor=#838383;" vertex="1" parent="1">
+          <mxGeometry x="676.53" y="429" width="29" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-53" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=IBM Plex Mono;fontSize=12;fontColor=#838383;endArrow=classic;" edge="1" parent="1" source="8phl6j2SaBWz-fMP-7BG-42" target="8phl6j2SaBWz-fMP-7BG-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="619.68" y="167.00412482766544" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="211" />
+              <mxPoint x="619" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-42" value="Linear" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;fontFamily=IBM Plex Mono;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="704" y="184" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-43" value="Concat" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#d6b656;fontFamily=IBM Plex Mono;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="559.09" y="223" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-54" value="Multi-Head Attention" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=IBM Plex Mono;fontColor=#838383;" vertex="1" parent="1">
+          <mxGeometry x="506" y="144" width="162" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="492.77" y="374" width="234" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-6" value="" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=IBM Plex Mono;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;rounded=1;fillOpacity=40;" vertex="1" parent="8phl6j2SaBWz-fMP-7BG-59">
+          <mxGeometry width="51.187500000000014" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-7" value="" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=IBM Plex Mono;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;rounded=1;fillOpacity=60;" vertex="1" parent="8phl6j2SaBWz-fMP-7BG-59">
+          <mxGeometry x="3.491901359600445" y="5" width="51.187500000000014" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-8" value="Linear" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=IBM Plex Mono;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;rounded=1;" vertex="1" parent="8phl6j2SaBWz-fMP-7BG-59">
+          <mxGeometry x="8.130861542730301" y="11" width="51.187500000000014" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-15" value="" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=IBM Plex Mono;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;rounded=1;fillOpacity=40;" vertex="1" parent="8phl6j2SaBWz-fMP-7BG-59">
+          <mxGeometry x="82.265625" width="51.187500000000014" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-16" value="" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=IBM Plex Mono;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;rounded=1;fillOpacity=60;" vertex="1" parent="8phl6j2SaBWz-fMP-7BG-59">
+          <mxGeometry x="85.75752635960046" y="5" width="51.187500000000014" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-17" value="Linear" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=IBM Plex Mono;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;rounded=1;" vertex="1" parent="8phl6j2SaBWz-fMP-7BG-59">
+          <mxGeometry x="90.39648654273032" y="11" width="51.187500000000014" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-18" value="" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=IBM Plex Mono;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;rounded=1;fillOpacity=40;" vertex="1" parent="8phl6j2SaBWz-fMP-7BG-59">
+          <mxGeometry x="164.53125" width="51.187500000000014" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-19" value="" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=IBM Plex Mono;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;rounded=1;fillOpacity=60;" vertex="1" parent="8phl6j2SaBWz-fMP-7BG-59">
+          <mxGeometry x="168.0231513596005" y="5" width="51.187500000000014" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-20" value="Linear" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=IBM Plex Mono;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;rounded=1;" vertex="1" parent="8phl6j2SaBWz-fMP-7BG-59">
+          <mxGeometry x="172.66211154273032" y="11" width="51.187500000000014" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-24" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#838383;fontFamily=IBM Plex Mono;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="8phl6j2SaBWz-fMP-7BG-59" source="8phl6j2SaBWz-fMP-7BG-21" target="8phl6j2SaBWz-fMP-7BG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-25" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#838383;fontFamily=IBM Plex Mono;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="8phl6j2SaBWz-fMP-7BG-59" source="8phl6j2SaBWz-fMP-7BG-22" target="8phl6j2SaBWz-fMP-7BG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-26" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#838383;fontFamily=IBM Plex Mono;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="8phl6j2SaBWz-fMP-7BG-59" source="8phl6j2SaBWz-fMP-7BG-23" target="8phl6j2SaBWz-fMP-7BG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-60" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;" edge="1" parent="1" source="8phl6j2SaBWz-fMP-7BG-8" target="8phl6j2SaBWz-fMP-7BG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-63" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;" edge="1" parent="1" source="8phl6j2SaBWz-fMP-7BG-5" target="8phl6j2SaBWz-fMP-7BG-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-65" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;" edge="1" parent="1" source="8phl6j2SaBWz-fMP-7BG-17" target="8phl6j2SaBWz-fMP-7BG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-69" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;" edge="1" parent="1" source="8phl6j2SaBWz-fMP-7BG-20" target="8phl6j2SaBWz-fMP-7BG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-72" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;" edge="1" parent="1" source="8phl6j2SaBWz-fMP-7BG-19" target="8phl6j2SaBWz-fMP-7BG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-73" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;" edge="1" parent="1" source="8phl6j2SaBWz-fMP-7BG-18" target="8phl6j2SaBWz-fMP-7BG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-80" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;" edge="1" parent="1" source="8phl6j2SaBWz-fMP-7BG-2" target="8phl6j2SaBWz-fMP-7BG-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-2" value="" style="whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=IBM Plex Mono;fontSize=12;fillColor=#e1d5e7;rounded=1;fillOpacity=20;" vertex="1" parent="1">
+          <mxGeometry x="497" y="286" width="161.4699248120301" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-79" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;" edge="1" parent="1" source="8phl6j2SaBWz-fMP-7BG-3" target="8phl6j2SaBWz-fMP-7BG-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-3" value="" style="whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=IBM Plex Mono;fontSize=12;fillColor=#e1d5e7;rounded=1;fillOpacity=40;" vertex="1" parent="1">
+          <mxGeometry x="507.6766917293233" y="291" width="161.4699248120301" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-78" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#838383;fontFamily=Helvetica;fontSize=12;fontColor=#838383;endArrow=classic;" edge="1" parent="1" source="8phl6j2SaBWz-fMP-7BG-4" target="8phl6j2SaBWz-fMP-7BG-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-4" value="" style="whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=IBM Plex Mono;fontSize=12;fillColor=#e1d5e7;rounded=1;fillOpacity=60;strokeOpacity=100;" vertex="1" parent="1">
+          <mxGeometry x="518.3533834586466" y="296" width="161.4699248120301" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="8phl6j2SaBWz-fMP-7BG-5" value="Scaled Dot-Product Attn" style="whiteSpace=wrap;html=1;strokeColor=#9673a6;fontFamily=IBM Plex Mono;fontSize=12;fillColor=#e1d5e7;rounded=1;strokeOpacity=80;" vertex="1" parent="1">
+          <mxGeometry x="529.0300751879699" y="301" width="161.4699248120301" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
