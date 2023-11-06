@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T21:41:05.199Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.0.8" etag="TZ3edR5g0NWGk75tfC8M" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T21:48:39.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EoAYJHn0kZ2jDDATCkh-" version="22.0.8" type="github">
   <diagram name="Page-1" id="N-ph5Ac-4gicPpuwLGdz">
-    <mxGraphModel>
+    <mxGraphModel dx="1087" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hT-kTI_gYKS62btYlZhu-3" value="\(v\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="74" y="35" width="61" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="hT-kTI_gYKS62btYlZhu-10" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="hT-kTI_gYKS62btYlZhu-4" target="hT-kTI_gYKS62btYlZhu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hT-kTI_gYKS62btYlZhu-11" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="hT-kTI_gYKS62btYlZhu-4" target="hT-kTI_gYKS62btYlZhu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hT-kTI_gYKS62btYlZhu-4" value="\(x\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="229" y="35" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="hT-kTI_gYKS62btYlZhu-12" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="hT-kTI_gYKS62btYlZhu-5" target="hT-kTI_gYKS62btYlZhu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hT-kTI_gYKS62btYlZhu-5" value="\(x_{A}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="145" y="116" width="104" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="hT-kTI_gYKS62btYlZhu-6" value="\(x_{B}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="266" y="116" width="105" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="hT-kTI_gYKS62btYlZhu-7" value="\(\Lambda_{\theta}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="149" y="197" width="220" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="hT-kTI_gYKS62btYlZhu-8" value="\(\Lambda_{\theta}\)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="149" y="285" width="220" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
