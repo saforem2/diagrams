@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T15:28:29.153Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Fnt-tRbiCrdocMvhV8p0" version="22.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-13T15:28:41.543Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="amOdyiHpIwPMMzkPKyWF" version="22.1.0" type="github" pages="8">
   <diagram name="Page-1" id="N-ph5Ac-4gicPpuwLGdz">
     <mxGraphModel dx="1677" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -212,9 +212,6 @@
         <mxCell id="EUrnpE7Y9TJfo_1iHgyb-15" value="\(\Lambda\)" style="whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;flipV=0;rounded=1;strokeColor=#FFA726;strokeWidth=3;fillColor=default;verticalAlign=middle;align=center;shadow=1;" vertex="1" parent="CslIn2mgidcRxynn087T-6">
           <mxGeometry x="112.25" y="57" width="38" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="EUrnpE7Y9TJfo_1iHgyb-8" value="\(\Gamma\)" style="whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rounded=1;fillColor=default;strokeColor=#EC407A;strokeWidth=3;verticalAlign=middle;align=center;shadow=1;flipV=0;" vertex="1" parent="CslIn2mgidcRxynn087T-6">
-          <mxGeometry width="38" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="EUrnpE7Y9TJfo_1iHgyb-9" value="\(\Gamma\)" style="whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rounded=1;fillColor=default;strokeColor=#EC407A;strokeWidth=3;verticalAlign=middle;align=center;shadow=1;flipV=0;" vertex="1" parent="CslIn2mgidcRxynn087T-6">
           <mxGeometry y="114" width="38" height="32" as="geometry" />
         </mxCell>
@@ -226,6 +223,9 @@
         </mxCell>
         <mxCell id="EUrnpE7Y9TJfo_1iHgyb-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startSize=8;endSize=8;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;fontSize=20;strokeColor=#AB47BC;strokeWidth=2;dashed=1;fontFamily=Architects Daughter;hachureGap=4;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" edge="1" parent="CslIn2mgidcRxynn087T-6" source="EUrnpE7Y9TJfo_1iHgyb-15" target="EUrnpE7Y9TJfo_1iHgyb-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUrnpE7Y9TJfo_1iHgyb-8" value="\(\Gamma\)" style="whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rounded=1;fillColor=default;strokeColor=#EC407A;strokeWidth=3;verticalAlign=middle;align=center;shadow=1;flipV=0;" vertex="1" parent="CslIn2mgidcRxynn087T-6">
+          <mxGeometry width="38" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
