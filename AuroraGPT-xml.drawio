@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="SwTtNthAAT4KUo_qg6Y9">
-    <mxGraphModel dx="2952" dy="3482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3874" dy="4803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,7 +113,7 @@
         <mxCell id="C6csZh2t3P1pUqBEb2r8-33" value="AuroraGPT" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingLeft=0;fillColor=#dae8fc;strokeColor=none;fontFamily=IBM Plex Mono;fontSize=72;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIBM%2BPlex%2BMono;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="886.61" y="573.0399999999998" width="493.66" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="C6csZh2t3P1pUqBEb2r8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#838383;strokeWidth=4;endSize=20;" edge="1" parent="1" source="C6csZh2t3P1pUqBEb2r8-24" target="C6csZh2t3P1pUqBEb2r8-30">
+        <mxCell id="C6csZh2t3P1pUqBEb2r8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#838383;strokeWidth=4;endSize=20;curved=0;" edge="1" parent="1" source="C6csZh2t3P1pUqBEb2r8-24" target="C6csZh2t3P1pUqBEb2r8-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="678" y="363" />
