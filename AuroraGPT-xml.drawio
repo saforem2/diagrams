@@ -140,6 +140,9 @@
         <mxCell id="C6csZh2t3P1pUqBEb2r8-45" value="Training" style="whiteSpace=wrap;html=1;fontFamily=IBM Plex Mono;fontSize=42;fillColor=none;strokeColor=none;fontColor=#838383;rotation=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIBM%2BPlex%2BMono;" vertex="1" parent="1">
           <mxGeometry x="790" y="-173.71" width="240" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="C6csZh2t3P1pUqBEb2r8-46" value="Process, clean, de-duplicate" style="whiteSpace=wrap;html=1;fontFamily=IBM Plex Mono;fontSize=42;fillColor=none;strokeColor=none;fontColor=#838383;rotation=-90;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIBM%2BPlex%2BMono;" vertex="1" parent="1">
+          <mxGeometry x="248" y="360" width="770" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
