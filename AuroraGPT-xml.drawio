@@ -102,7 +102,7 @@
           <mxGeometry x="790" y="-27.959999999999994" width="686.88" height="340" as="geometry" />
         </mxCell>
         <mxCell id="C6csZh2t3P1pUqBEb2r8-31" value="&lt;span style=&quot;font-size: 72px;&quot;&gt;í ½í±¨í ¼í¿»â€í ½í²» â°&lt;/span&gt;&lt;span style=&quot;font-size: 72px; background-color: initial;&quot;&gt;í ¾íº„&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=IBM Plex Mono;fontSize=72;fillColor=none;strokeColor=none;fontColor=#838383;rotation=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIBM%2BPlex%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="312.04" width="280" height="85.34" as="geometry" />
+          <mxGeometry x="1030" y="400" width="280" height="85.34" as="geometry" />
         </mxCell>
         <mxCell id="C6csZh2t3P1pUqBEb2r8-32" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#838383;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=IBM Plex Mono;fontSize=28;fontColor=#838383;labelBackgroundColor=default;endArrow=classic;endSize=28;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIBM%2BPlex%2BMono;" edge="1" parent="1" source="C6csZh2t3P1pUqBEb2r8-30" target="C6csZh2t3P1pUqBEb2r8-33">
           <mxGeometry relative="1" as="geometry">
