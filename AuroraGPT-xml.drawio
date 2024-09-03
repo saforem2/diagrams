@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Page-1" id="SwTtNthAAT4KUo_qg6Y9">
-    <mxGraphModel dx="7946" dy="3482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2952" dy="3482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
           <mxGeometry x="1565" y="-130" width="765" height="985.08" as="geometry" />
         </mxCell>
         <mxCell id="C6csZh2t3P1pUqBEb2r8-20" value="Fine-Tuned + Adapted" style="whiteSpace=wrap;html=1;fontFamily=IBM Plex Mono;fontSize=42;fillColor=none;strokeColor=none;fontColor=#838383;rotation=-90;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIBM%2BPlex%2BMono;" vertex="1" parent="C6csZh2t3P1pUqBEb2r8-10">
-          <mxGeometry x="-245" y="360" width="520" height="70" as="geometry" />
+          <mxGeometry x="-225" y="360" width="520" height="70" as="geometry" />
         </mxCell>
         <mxCell id="C6csZh2t3P1pUqBEb2r8-12" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Downstream Scientific Tasks&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=28;fontFamily=IBM Plex Mono;fillColor=#ffe6cc;strokeColor=none;flipV=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIBM%2BPlex%2BMono;rounded=1;container=0;shadow=1;" vertex="1" parent="C6csZh2t3P1pUqBEb2r8-10">
           <mxGeometry x="245" y="128" width="520" height="90" as="geometry" />
@@ -117,7 +117,7 @@
           <mxGeometry x="886.61" y="573.0399999999998" width="493.66" height="180" as="geometry" />
         </mxCell>
         <mxCell id="C6csZh2t3P1pUqBEb2r8-22" value="Training" style="whiteSpace=wrap;html=1;fontFamily=IBM Plex Mono;fontSize=42;fillColor=none;strokeColor=none;fontColor=#838383;rotation=-90;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIBM%2BPlex%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="490" y="210" width="230" height="70" as="geometry" />
+          <mxGeometry x="520" y="208.79" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="C6csZh2t3P1pUqBEb2r8-24" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#838383;strokeWidth=3;aspect=fixed;fontFamily=IBM Plex Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DIBM%2BPlex%2BMono;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-786.59" y="-150" width="1362.88" height="1025.08" as="geometry" />
