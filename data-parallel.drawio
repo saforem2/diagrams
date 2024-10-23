@@ -108,7 +108,7 @@
         <mxCell id="f_Sf6QIeiGsGsNXmYfgH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_Sf6QIeiGsGsNXmYfgH-23" target="f_Sf6QIeiGsGsNXmYfgH-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_Sf6QIeiGsGsNXmYfgH-23" value="$x_{0}$" style="whiteSpace=wrap;html=1;flipV=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="f_Sf6QIeiGsGsNXmYfgH-23" value="\(x_{0}\)" style="whiteSpace=wrap;html=1;flipV=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="239" y="623" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f_Sf6QIeiGsGsNXmYfgH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_Sf6QIeiGsGsNXmYfgH-24" target="f_Sf6QIeiGsGsNXmYfgH-34">
